@@ -6,9 +6,8 @@ This interface allows users to upload videos, process them via the backend RAG s
 ---
 
 ## 🖼️ Preview
-![App Screenshot](<img width="1902" height="903" alt="image" src="https://github.com/user-attachments/assets/7fc64ef2-4daa-4726-b3e0-702c4894108d" />
-)  
-*(Replace `screenshot.png` with your actual screenshot file path)*
+<img width="1902" height="903" alt="Screenshot 2025-08-15 221608" src="https://github.com/user-attachments/assets/cf1cb0fb-4447-4476-9fdd-cfbc3d44c661" />
+
 
 ---
 
